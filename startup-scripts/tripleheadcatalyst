@@ -1,0 +1,1 @@
+xrandr --output DFP1 --mode 1920x1080 && xrandr --output DFP5 --mode 1280x1024 --left-of DFP1 && xrandr --output DFP7 --mode 1280x1024 --right-of DFP1

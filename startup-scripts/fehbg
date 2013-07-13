@@ -1,0 +1,2 @@
+#!/bin/bash
+feh --no-xinerama --bg-fill "/home/bjarke/Pictures/Wallpapers/wide3.jpg" 
